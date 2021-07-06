@@ -52,6 +52,14 @@ p
     margin-left: 5px;
 }
 
+.portrait img
+{
+    max-width: auto;
+    height: 90%;
+    padding-left: 10%;
+    
+}
+
 .about
 {
     background-image: url(shapes/7.png);
